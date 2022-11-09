@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Anderson! 👋🏻</h1>
 <h3 align="center">Soy un apasionado Desarrollador Front End.</h3>
 
-- 🌱 Actualmente me encuentro aprendiendo **Typescript 👨🏻‍💻**
+- 🌱 Actualmente soy estudiante de la Universidad de Antioquia. 📚
 
 - 👨‍💻 Mis proyectos están disponibles en [https://andersonvb.github.io/personal-website/](https://andersonvb.github.io/personal-website/)
 
