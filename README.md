@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Anderson! 👋🏻</h1>
-<h3 align="center">Soy un apasionado Desarrollador Front End.</h3>
+<h3 align="center">Desarrollador Front End.</h3>
 
 - 🌱 Actualmente soy estudiante de la Universidad de Antioquia. 📚
 
