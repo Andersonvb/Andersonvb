@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://andersonvb.github.io/personal-website/](https://andersonvb.github.io/personal-website/)
-
 - 📫 How to reach me **andersonvalenciabermudez@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
