@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">A passionate software developer from Colombia</h3>
+<h3 align="center">Backend Developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- Ruby on Rails Developer
 
 - 📫 How to reach me **andersonvalenciabermudez@gmail.com**
 
